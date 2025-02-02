@@ -1,5 +1,13 @@
-# 💫 About Me:
-👋 Hi, I'm Hisham Mohammed Afzal!<br><br>I'm a Data Science Enthusiast with a passion for AI, data analytics, and software development. I enjoy working on machine learning, NLP, and data visualization. I enjoy transforming complex data into actionable insights.<br><br>🔍 Projects:<br>Cancer Random Forest: Predicting cancer types using random forest.<br>Real Estate Linear Regression: Analyzing real estate prices.<br>Titanic Survival Logistic Regression: Predicting survival using logistic regression.<br>Voice Recognition SVM: Implementing voice recognition with SVM.
+# 💫 About Me  
+👋 Hi, I'm **Hisham Mohammed Afzal**!  
+
+I'm a **Data Science & AI Enthusiast** passionate about **machine learning, NLP, and cloud computing**. I enjoy developing intelligent solutions that transform data into actionable insights.  
+
+### 🔍 Recent Projects:  
+✔ **Chat with PDFs (RAG-based LLM Application)** – Developed an AI chatbot that allows users to upload PDF documents and interact with them using Retrieval-Augmented Generation (RAG).  
+✔ **Employee Attrition Analysis** – Built machine learning models (Random Forest, Logistic Regression, KNN) to analyze employee turnover trends and identify key influencing factors.  
+
+💡 Passionate about **LLMs, machine learning, cloud computing (AWS, Azure), and AI-driven applications**. Always open to learning, collaborating, and exploring innovative solutions!  
 
 
 # 💻 Tech Stack:
