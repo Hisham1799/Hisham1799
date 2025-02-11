@@ -1,7 +1,7 @@
 # 💫 About Me  
 👋 Hi, I'm **Hisham Mohammed Afzal**!  
 
-A **Data Science & AI Enthusiast** with a passion for **machine learning, NLP, cloud computing, and data visualization**. I thrive on building **intelligent solutions** that transform raw data into **actionable insights**.  
+Data Analyst with a passion for data visualization, business intelligence, and predictive analytics. Experienced in leveraging machine learning, cloud computing (AWS, Azure), and GenAI to extract actionable insights and drive data-driven decisions.  
 
 ## 🚀 Recent Projects  
 🔹 **Superstore Sales Dashboard (Power BI)** → Designed an **interactive sales dashboard** that analyzes revenue trends, regional performance, and customer insights, providing **data-driven business strategies**. [🔗 View Project](https://github.com/Hisham1799/PowerBI_Sales_Dashboard)  
