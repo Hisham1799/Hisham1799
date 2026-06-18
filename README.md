@@ -2,7 +2,7 @@
 
 👋 Hi, I'm **Hisham Mohammed Afzal**!
 
-An aspiring **Data Engineer** passionate about building scalable data pipelines, transforming raw data into reliable analytical datasets, and working with distributed data processing systems.
+A **Data Engineer** passionate about building scalable data pipelines, transforming raw data into reliable analytical datasets, and working with distributed data processing systems.
 
 I enjoy solving real-world data quality problems and working with technologies related to big data, cloud platforms, and modern data architectures.
 
